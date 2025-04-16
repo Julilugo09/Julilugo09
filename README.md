@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Juliana Lugo
 
-🎓 I'm a Systems Engineering student at Pontificia Universidad Javeriana in Bogotá, Colombia. I’m passionate about technology, coding, and constantly learning new ways to innovate.
+I'm a Systems Engineering student at Pontificia Universidad Javeriana in Bogotá, Colombia. I’m passionate about technology, coding, and constantly learning new ways to innovate.
 
 ## 💼 About Me
 
