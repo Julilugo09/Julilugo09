@@ -26,7 +26,7 @@ I'm especially interested in how blockchain and cybersecurity intersect to creat
 ## 🌐 Languages
 
 - Spanish (Native)  
-- English (Intermediate)
+- English (Advanced)
 
 ## 📱 Find Me Online
 
