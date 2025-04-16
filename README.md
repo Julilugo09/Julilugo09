@@ -1,5 +1,5 @@
 #👋 Hi! I'm Juliana Lugo
-##🎓 I'm a Systems Engineering student at Pontificia Universidad Javeriana in Bogotá, Colombia. I’m passionate about technology, coding, and constantly learning new ways to innovate.
+🎓 I'm a Systems Engineering student at Pontificia Universidad Javeriana in Bogotá, Colombia. I’m passionate about technology, coding, and constantly learning new ways to innovate.
 
 ##💼 About Me
 I currently serve as the co-leader of the Blockchain Research Group at my university, where we promote hands-on learning and explore the real-world potential of decentralized technologies. I'm also the president of WIE (Women in Engineering), where I advocate for more female representation and leadership in STEM.
