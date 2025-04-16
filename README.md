@@ -4,7 +4,7 @@
 
 ## 💼 About Me
 
-I currently serve as the co-leader of the Blockchain Research Group at my university, where we promote hands-on learning and explore the real-world potential of decentralized technologies. I'm also the president of WIE (Women in Engineering), where I advocate for more female representation and leadership in STEM.
+I currently serve as the co leader of the Blockchain Research Group at my university, where we promote hands on learning and explore the real-world potential of decentralized technologies. I'm also the president of WIE (Women in Engineering), where I advocate for more female representation and leadership in STEM.
 
 I'm especially interested in how blockchain and cybersecurity intersect to create secure, scalable, and meaningful digital solutions.
 
