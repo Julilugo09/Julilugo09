@@ -19,7 +19,7 @@ Participated in an international hackathon with a blockchain application built u
 
 🔗 [Secure Ticket](https://github.com/mesas01/Stellar_Hackaton)
 🔗 [Woopi](https://github.com/miguelnietoa/woopi)
-🔗 [TipStreamer](https://github.com/mesas01/Stellar_Hackaton)
+🔗 [TipStreamer](https://github.com/mesas01/TipStreamer)
 
 ## 🎯 Main Interests
 
