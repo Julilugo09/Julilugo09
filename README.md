@@ -15,7 +15,11 @@ I'm especially interested in how blockchain and cybersecurity intersect to creat
 
 ## 🚀 Highlighted Project
 
-🔗 [Stellar Hackathon Project](https://github.com/mesas01/Stellar_Hackaton) – Participated in an international hackathon with a blockchain application built using Rust and the Stellar network
+Participated in an international hackathon with a blockchain application built using Rust and the Stellar network
+
+🔗 [Secure Ticket](https://github.com/mesas01/Stellar_Hackaton)
+🔗 [Woopi](https://github.com/miguelnietoa/woopi)
+🔗 [TipStreamer](https://github.com/mesas01/Stellar_Hackaton)
 
 ## 🎯 Main Interests
 
